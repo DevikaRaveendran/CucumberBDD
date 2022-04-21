@@ -1,4 +1,5 @@
 Feature: Search and order products
+#Lulu hypermarket online shopping
 
 @SearchItem
 Scenario Outline: Search and order the required item from the ecommerce website
