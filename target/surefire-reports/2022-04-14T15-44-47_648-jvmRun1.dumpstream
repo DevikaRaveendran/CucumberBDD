@@ -1,0 +1,257 @@
+# Created at 2022-04-14T15:46:01.351
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2022-04-14T15:46:10.684
+Unexpected IOException with stream: [
+
+# Created at 2022-04-14T15:46:10.688
+Unexpected IOException with stream: 1
+
+# Created at 2022-04-14T15:46:10.690
+Unexpected IOException with stream: 6
+
+# Created at 2022-04-14T15:46:10.693
+Unexpected IOException with stream: 4
+
+# Created at 2022-04-14T15:46:10.696
+Unexpected IOException with stream: 9
+
+# Created at 2022-04-14T15:46:10.701
+Unexpected IOException with stream: 9
+
+# Created at 2022-04-14T15:46:10.704
+Unexpected IOException with stream: 3
+
+# Created at 2022-04-14T15:46:10.706
+Unexpected IOException with stream: 1
+
+# Created at 2022-04-14T15:46:10.709
+Unexpected IOException with stream: 3
+
+# Created at 2022-04-14T15:46:10.712
+Unexpected IOException with stream: 7
+
+# Created at 2022-04-14T15:46:10.715
+Unexpected IOException with stream: 0
+
+# Created at 2022-04-14T15:46:10.717
+Unexpected IOException with stream: .
+
+# Created at 2022-04-14T15:46:10.719
+Unexpected IOException with stream: 6
+
+# Created at 2022-04-14T15:46:10.722
+Unexpected IOException with stream: 8
+
+# Created at 2022-04-14T15:46:10.724
+Unexpected IOException with stream: 3
+
+# Created at 2022-04-14T15:46:10.726
+Unexpected IOException with stream: ]
+
+# Created at 2022-04-14T15:46:10.728
+Unexpected IOException with stream: [
+
+# Created at 2022-04-14T15:46:10.731
+Unexpected IOException with stream: W
+
+# Created at 2022-04-14T15:46:10.734
+Unexpected IOException with stream: A
+
+# Created at 2022-04-14T15:46:10.736
+Unexpected IOException with stream: R
+
+# Created at 2022-04-14T15:46:10.738
+Unexpected IOException with stream: N
+
+# Created at 2022-04-14T15:46:10.739
+Unexpected IOException with stream: I
+
+# Created at 2022-04-14T15:46:10.741
+Unexpected IOException with stream: N
+
+# Created at 2022-04-14T15:46:10.742
+Unexpected IOException with stream: G
+
+# Created at 2022-04-14T15:46:10.744
+Unexpected IOException with stream: ]
+
+# Created at 2022-04-14T15:46:10.746
+Unexpected IOException with stream: :
+
+# Created at 2022-04-14T15:46:10.748
+Unexpected IOException with stream:  
+
+# Created at 2022-04-14T15:46:10.749
+Unexpected IOException with stream: T
+
+# Created at 2022-04-14T15:46:10.750
+Unexpected IOException with stream: i
+
+# Created at 2022-04-14T15:46:10.751
+Unexpected IOException with stream: m
+
+# Created at 2022-04-14T15:46:10.753
+Unexpected IOException with stream: e
+
+# Created at 2022-04-14T15:46:10.754
+Unexpected IOException with stream: d
+
+# Created at 2022-04-14T15:46:10.755
+Unexpected IOException with stream:  
+
+# Created at 2022-04-14T15:46:10.756
+Unexpected IOException with stream: o
+
+# Created at 2022-04-14T15:46:10.757
+Unexpected IOException with stream: u
+
+# Created at 2022-04-14T15:46:10.758
+Unexpected IOException with stream: t
+
+# Created at 2022-04-14T15:46:10.760
+Unexpected IOException with stream:  
+
+# Created at 2022-04-14T15:46:10.762
+Unexpected IOException with stream: c
+
+# Created at 2022-04-14T15:46:10.763
+Unexpected IOException with stream: o
+
+# Created at 2022-04-14T15:46:10.764
+Unexpected IOException with stream: n
+
+# Created at 2022-04-14T15:46:10.766
+Unexpected IOException with stream: n
+
+# Created at 2022-04-14T15:46:10.767
+Unexpected IOException with stream: e
+
+# Created at 2022-04-14T15:46:10.768
+Unexpected IOException with stream: c
+
+# Created at 2022-04-14T15:46:10.769
+Unexpected IOException with stream: t
+
+# Created at 2022-04-14T15:46:10.770
+Unexpected IOException with stream: i
+
+# Created at 2022-04-14T15:46:10.772
+Unexpected IOException with stream: n
+
+# Created at 2022-04-14T15:46:10.773
+Unexpected IOException with stream: g
+
+# Created at 2022-04-14T15:46:10.774
+Unexpected IOException with stream:  
+
+# Created at 2022-04-14T15:46:10.775
+Unexpected IOException with stream: t
+
+# Created at 2022-04-14T15:46:10.777
+Unexpected IOException with stream: o
+
+# Created at 2022-04-14T15:46:10.778
+Unexpected IOException with stream:  
+
+# Created at 2022-04-14T15:46:10.779
+Unexpected IOException with stream: C
+
+# Created at 2022-04-14T15:46:10.780
+Unexpected IOException with stream: h
+
+# Created at 2022-04-14T15:46:10.781
+Unexpected IOException with stream: r
+
+# Created at 2022-04-14T15:46:10.782
+Unexpected IOException with stream: o
+
+# Created at 2022-04-14T15:46:10.784
+Unexpected IOException with stream: m
+
+# Created at 2022-04-14T15:46:10.785
+Unexpected IOException with stream: e
+
+# Created at 2022-04-14T15:46:10.786
+Unexpected IOException with stream: ,
+
+# Created at 2022-04-14T15:46:10.787
+Unexpected IOException with stream:  
+
+# Created at 2022-04-14T15:46:10.788
+Unexpected IOException with stream: r
+
+# Created at 2022-04-14T15:46:10.789
+Unexpected IOException with stream: e
+
+# Created at 2022-04-14T15:46:10.790
+Unexpected IOException with stream: t
+
+# Created at 2022-04-14T15:46:10.792
+Unexpected IOException with stream: r
+
+# Created at 2022-04-14T15:46:10.793
+Unexpected IOException with stream: y
+
+# Created at 2022-04-14T15:46:10.794
+Unexpected IOException with stream: i
+
+# Created at 2022-04-14T15:46:10.796
+Unexpected IOException with stream: n
+
+# Created at 2022-04-14T15:46:10.797
+Unexpected IOException with stream: g
+
+# Created at 2022-04-14T15:46:10.797
+Unexpected IOException with stream: .
+
+# Created at 2022-04-14T15:46:10.798
+Unexpected IOException with stream: .
+
+# Created at 2022-04-14T15:46:10.799
+Unexpected IOException with stream: .
+
+# Created at 2022-04-14T15:46:10.800
+Unexpected IOException with stream: 
+
+# Created at 2022-04-14T15:46:10.801
+Unexpected IOException with stream: 
+
+
+# Created at 2022-04-14T15:46:19.530
+Unexpected IOException: 7,1,Search and order products,Search and order the required item from the ecommerce website #2(Search and order products),null,chrome not reachable\000A  (Session info: chrome=100.0.4896.88)\000ABuild info: version: '4.1.2'\002C revision: '9a5a329c5a'\000ASystem info: host: 'DESKTOP-GNAGJM9'\002C ip: '172.20.80.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.14'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [e73205e3a5bc6a994d2b54daff8f5e01\002C getTitle {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.88\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005CDevu\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:65106}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:65106/devtoo...\002C se:cdpVersion: 100.0.4896.88\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: e73205e3a5bc6a994d2b54daff8f5e01,null,chrome not reachable\000A  (Session info: chrome=100.0.4896.88)\000ABuild info: version: '4.1.2'\002C revision: '9a5a329c5a'\000ASystem info: host: 'DESKTOP-GNAGJM9'\002C ip: '172.20.80.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.14'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [e73205e3a5bc6a994d2b54daff8f5e01\002C getTitle {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.88\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005CDevu\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:65106}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:65106/devtoo...\002C se:cdpVersion: 100.0.4896.88\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: e73205e3a5bc6a994d2b54daff8f5e01,chrome not reachable\000A  (Session info: chrome=100.0.4896.88)\000ABuild info: version: '4.1.2'\002C revision: '9a5a329c5a'\000ASystem info: host: 'DESKTOP-GNAGJM9'\002C ip: '172.20.80.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.14'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [e73205e3a5bc6a994d2b54daff8f5e01\002C getTitle {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.88\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005CDevu\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:65106}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:65106/devtoo...\002C se:cdpVersion: 100.0.4896.88\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: e73205e3a5bc6a994d2b54daff8f5e01,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=100.0.4896.88)\000ABuild info: version: '4.1.2'\002C revision: '9a5a329c5a'\000ASystem info: host: 'DESKTOP-GNAGJM9'\002C ip: '172.20.80.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.14'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [e73205e3a5bc6a994d2b54daff8f5e01\002C getTitle {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.88\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005CDevu\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:65106}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:65106/devtoo...\002C se:cdpVersion: 100.0.4896.88\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: e73205e3a5bc6a994d2b54daff8f5e01\000A
+
+
+# Created at 2022-04-14T15:46:19.538
+Unexpected IOException: 7,1,Search and order products,Search and order the required item from the ecommerce website #2(Search and order products),null,chrome not reachable\000A  (Session info: chrome=100.0.4896.88)\000ABuild info: version: '4.1.2'\002C revision: '9a5a329c5a'\000ASystem info: host: 'DESKTOP-GNAGJM9'\002C ip: '172.20.80.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.14'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [e73205e3a5bc6a994d2b54daff8f5e01\002C screenshot {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.88\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005CDevu\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:65106}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:65106/devtoo...\002C se:cdpVersion: 100.0.4896.88\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: e73205e3a5bc6a994d2b54daff8f5e01,null,chrome not reachable\000A  (Session info: chrome=100.0.4896.88)\000ABuild info: version: '4.1.2'\002C revision: '9a5a329c5a'\000ASystem info: host: 'DESKTOP-GNAGJM9'\002C ip: '172.20.80.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.14'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [e73205e3a5bc6a994d2b54daff8f5e01\002C screenshot {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.88\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005CDevu\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:65106}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:65106/devtoo...\002C se:cdpVersion: 100.0.4896.88\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: e73205e3a5bc6a994d2b54daff8f5e01,chrome not reachable\000A  (Session info: chrome=100.0.4896.88)\000ABuild info: version: '4.1.2'\002C revision: '9a5a329c5a'\000ASystem info: host: 'DESKTOP-GNAGJM9'\002C ip: '172.20.80.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.14'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [e73205e3a5bc6a994d2b54daff8f5e01\002C screenshot {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.88\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005CDevu\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:65106}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:65106/devtoo...\002C se:cdpVersion: 100.0.4896.88\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: e73205e3a5bc6a994d2b54daff8f5e01,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=100.0.4896.88)\000ABuild info: version: '4.1.2'\002C revision: '9a5a329c5a'\000ASystem info: host: 'DESKTOP-GNAGJM9'\002C ip: '172.20.80.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.14'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [e73205e3a5bc6a994d2b54daff8f5e01\002C screenshot {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.88\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005CDevu\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:65106}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:65106/devtoo...\002C se:cdpVersion: 100.0.4896.88\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: e73205e3a5bc6a994d2b54daff8f5e01\000A
+
+
+# Created at 2022-04-14T15:46:19.562
+Unexpected IOException with stream: ?????????????????????????????????????????????????????????????????????????????????????
+? Share your Cucumber Report with your team at https://reports.cucumber.io          ?
+? Activate publishing with one of the following:                                    ?
+?                                                                                   ?
+? src/test/resources/cucumber.properties:          cucumber.publish.enabled=true    ?
+? src/test/resources/junit-platform.properties:    cucumber.publish.enabled=true    ?
+? Environment variable:                            CUCUMBER_PUBLISH_ENABLED=true    ?
+? JUnit:                                           @CucumberOptions(publish = true) ?
+?                                                                                   ?
+? More information at https://cucumber.io/docs/cucumber/environment-variables/      ?
+?                                                                                   ?
+? Disable this message with one of the following:                                   ?
+?                                                                                   ?
+? src/test/resources/cucumber.properties:          cucumber.publish.quiet=true      ?
+? src/test/resources/junit-platform.properties:    cucumber.publish.quiet=true      ?
+?????????????????????????????????????????????????????????????????????????????????????
+
+
+# Created at 2022-04-14T15:46:19.564
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,TestRunner.JunitTestRunnerTest,null,null,null
+
+
